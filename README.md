@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <p>SQL Database created in Microsoft Access. UML Notation report, exported as a .rar file.</p>
+  <p>Relational created in Microsoft Access. UML Notation report, exported as a .rar file.</p>
 </div>
 
 <div align="center">
